@@ -1,6 +1,6 @@
 #👋 Hello, I'mMehdi  <--! Futur Dev🖥️-->
 <div align="center">
-*Computer sciences student · Full-stack in progress*
+*Computer sciences student *
 
 !
     > Actuellement en formation, je travaille sur des projets HTML/CSS  Python/C   et explore progressivement JavaScript & php & c++.
