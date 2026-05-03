@@ -1,9 +1,11 @@
-#👋 Hello, I'mMehdi  <--! Futur Dev🖥️-->
+      
+##👋 H E L L O ,  I ' M  E L M E H D I  
+
 <div align="center">
 *Computer sciences student *
 
 !
-    > Actuellement en formation, je travaille sur des projets HTML/CSS  Python/C   et explore progressivement JavaScript & php & c++.
+    > Actuellement en formation, je travaille sur des projets HTML/CSS/JavaScript   Python/C  .
 
 </div>
 
@@ -13,7 +15,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+212771278882)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Elmeee_1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Elmehdi_Elmellouki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmehdi-elmellouki-963552331/)
 
 ---
 
@@ -36,26 +38,11 @@
 
 | Projet | Description | Langage |
 |--------|-------------|---------|
-| [Tourist Guide website](https://github.com/elmeee-1/ProjectWeb-V1-) | Site de Guide touristique au Maroc | HTML/CSS/JavaScript |
-
+| [Tourist Guide website](https://github.com/elmeee-1/ProjectWeb) | Site de Guide touristique au Maroc | HTML/CSS/JavaScript |
+| [Gestion Hospital system](https://github.com/elmeee-1/Gestion-Hopital-with-python) | Systeme de gestion d'Hopital back-end | Python/HTML/Bootsrap/JavaScript|
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmeee-1&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
-
-
-
-
-<a href="https://wa.me/+212771278882">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="40" height="40" style="fill:#25D366"/>
-</a>
-
-<a href="https://instagram.com/Elmeee_1">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40"/>
-</a>
-
-<a href="https://linkedin.com/in/Elmehdi Elmellouki">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40"/>
-</a>
