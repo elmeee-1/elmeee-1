@@ -45,8 +45,8 @@
 ### 📈 Stats GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=elmeee-1&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmeee-1&layout=compact&theme=tokyonight&hide_border=true" />
-<img src="https://streak-stats.demolab.com?user=elmeee-1&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmeee-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=elmeee-1&theme=tokyonight&hide_border=true" />
 <img src="https://github-profile-trophy.vercel.app/?username=elmeee-1&theme=tokyonight&no-frame=true" />
 
 ---
