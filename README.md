@@ -37,8 +37,8 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [🌍 Tourist Guide Website](https://github.com/elmeee-1/ProjectWeb) | Site de guide touristique au Maroc | HTML / CSS / JavaScript |
-| [🏥 Gestion Hôpital](https://github.com/elmeee-1/Gestion-Hopital-with-python) | Système de gestion d'hôpital (back-end) | Python / HTML / Bootstrap / JavaScript |
+| [🌍 Tourist Guide Website](https://github.com/elmeee-1/ProjectWeb) | Site de guide touristique au Maroc | ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) |
+| [🏥 Gestion Hôpital](https://github.com/elmeee-1/Gestion-Hopital-with-python) | Système de gestion d'hôpital (back-end) | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
