@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="welcome-header.gif"/>
+
+
+
+
+
 ---
 
 # 👋 H E L L O , I ' M  E L M E H D I
