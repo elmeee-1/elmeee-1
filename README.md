@@ -27,17 +27,25 @@
 
 <div>
 <h3>MY STACK</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,bootstrap,fastapi,c,git,flask,vscode,github,figma" />  
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,bootstrap,fastapi,c,git,flask,vscode,github" />  
 </div>
 
 ---
 
 ### 🛠️ Tools
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+
+<p width=70>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+  
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png"/>
+  
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/>
+
+  <img src="https://img.icons8.com/color/48/canva.png"/>
+</p>
 
 ---
 
