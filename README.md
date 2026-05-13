@@ -2,17 +2,25 @@
 
 <img src="welcome-header.gif"/>
 
-
-
-
-
 ---
 
-# 👋 H E L L O , I ' M  E L M E H D I
 
-**Computer Science Student** · Cadi Ayyad University, Marrakech 🇲🇦
 
-> Currently studying, I work on projects in **HTML/CSS/JavaScript**, **Python** .
+<h1 align="center">
+  Hi 👋 I'm Elmehdi
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;UI%2FUX+Designer;Python+Developer;Creative+Web+Experiences" />
+</p>
+
+
+## About Me
+
+Hi 👋 I'm Elmehdi, a student and front-end developer passionate about creating modern, interactive, and cinematic web experiences. I enjoy building responsive websites, UI designs, and creative digital projects using HTML, CSS, JavaScript, and Python.
+
+ > Currently focused on improving my development skills, exploring new technologies, and building projects that combine clean design with smooth user experiences.
+
 ---
 
 ### 🌐 Contact & Social
