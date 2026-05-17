@@ -35,7 +35,7 @@ Hi 👋 I'm Elmehdi, a student and front-end developer passionate about creating
 
 <div>
 <h3>MY STACK</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,bootstrap,fastapi,c,git,flask,vscode,github" />  
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,bootstrap,sass,fastapi,c,git,flask,vscode,github" />  
 </div>
 
 ---
