@@ -76,5 +76,8 @@ Hi 👋 I'm Elmehdi, a student and front-end developer passionate about creating
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxqZW1jZzh5Y3Q5aTg5OGo3bG1scjdybjI5cW9sZWRxbXpudDl1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPuszmHgeWnIhTkSr5/giphy.gif"/>
 
+### You can support me via:
+
+<a href="(https://www.paypal.com/paypalme/ELMEHDIELMELLOUKI)" target="_blank"><img src="https://img.shields.io/badge/PayPal.Me-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal.Me" height="50;width: 230px;"></a>
 
 </div> 
